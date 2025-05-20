@@ -1,0 +1,1820 @@
+@media (min-width: 1200px) and (max-width: 1700px) {
+    /* headerCss */
+    .headerCta {
+        display: none;
+    }
+
+    .HeaderCtaPhoneEmail {
+        border-left: 1px solid #619d87;
+    }
+
+    .logoMain img {
+        width: 90%;
+    }
+
+    .logoMain {
+        position: static;
+        top: 15px;
+        left: 0;
+    }
+
+    .logoMainWrap {
+        display: flex;
+        align-items: center;
+        justify-content: start;
+    }
+
+    .headerMenuWrap ul li a, .headerMenuWrap ul li span {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 15px 0;
+    }
+
+    .HeaderCtaPhoneEmail a {
+        font-size: 14px;
+    }
+
+    .ctaRight {
+        width: 20%;
+    }
+
+    .headerMenuWrap ul li + li {
+        margin-left: 15px;
+    }
+
+    .headerMenuMain {
+        width: 63.333333%;
+        padding: 0;
+    }
+
+    .headerMenuWrap ul.dropDown li a {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .headerMain:after {
+        width: 100%;
+        display: none;
+    }
+
+    .headerMenuWrap ul {
+        padding: 0;
+    }
+
+    header {
+        border-bottom: 1px solid #629d87;
+    }
+
+    /* headercss end */
+    .BannerHome .bannerContent {
+        padding-top: 180px;
+        width: 90%;
+    }
+
+    .custom-tab-list ul li a {
+        font-size: 30px;
+    }
+
+    .abtLeft h4 {
+        font-size: 38px;
+        line-height: 48px;
+    }
+
+    .makesContent ul {
+        margin-top: 12px;
+    }
+
+    .makesContent ul li {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .philContentRight {
+        max-width: 50% !IMPORTANT;
+    }
+
+    .bannerTextInner h1 {
+        font-size: 42px;
+        line-height: 50px;
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .aboutSec2Content .bookContentmain ul li {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    span.footerTitle {
+        font-size: 40px;
+    }
+
+    footer .container-fluid {
+        padding-left: 3%;
+    }
+
+    .footerRightWrap {
+        width: 33.3%;
+    }
+
+    ul.socialFooter li a {
+        width: 120px;
+        font-size: 15px;
+    }
+
+    .innerBanner .container {
+        max-width: 1230px;
+    }
+
+    .bannerTextInner h1 {
+        font-size: 42px;
+        line-height: 50px;
+    }
+
+    .ctaTitleLeft .heading2 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+
+    .ctaTitleRightInnerLeft .aboutCta a.ctaLinePhone:first-child {
+        font-size: 19px;
+    }
+
+    .ctaTitleRight {
+        padding-left: 20px;
+    }
+
+    .ctaTitleRightInnerLeft .ctaWrap a.ctaLinePhone {
+        margin-left: 0px;
+    }
+
+    .ctaTitleLeft {
+        padding-right: 20px;
+    }
+
+    .ctaTitleRightInnerLeft .aboutCta {
+        min-width: 60%;
+    }
+
+    .bannerTextInner h1 {
+        font-size: 42px;
+        line-height: 50px;
+    }
+
+    .ctaTitleLeft .heading2 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+
+    .ctaTitleRightInnerLeft .aboutCta a.ctaLinePhone:first-child {
+        font-size: 19px;
+    }
+
+    .ctaTitleRight {
+        padding-left: 20px;
+    }
+
+    .ctaTitleLeft {
+        padding-right: 20px;
+    }
+
+    .ctaTitleRightInnerLeft .aboutCta {
+        min-width: 60%;
+    }
+
+    .ctaTitleRightInnerLeft .ctaWrap a.ctaLinePhone {
+        margin-left: 0px;
+    }
+
+    .servicesMarque ul {
+        margin-top: 70px;
+    }
+
+    .servicesMarque ul li {
+        margin-left: 120px;
+        font-size: 90px;
+        line-height: 140px;
+    }
+
+    .BannerformWrap button.btnPrimary:after {
+        right: 32.5%;
+    }
+
+    .popupBox {
+        transform: scale(0.75);
+    }
+
+    .popupBox.show {
+        transform: scale(0.9);
+    }
+
+    .bannerContent h1 {
+        max-width: 1000px;
+        margin: 0 auto 25px;
+    }
+
+    .BannerHome .bannerContent p {
+        max-width: 1100px;
+        margin: 0 auto 25px;
+    }
+
+    .whyChosseUs .container-fluid {
+        padding: 0 70px;
+    }
+}
+
+@media (min-width: 991px) {
+
+    .headerMenuWrap ul li.hasChild.parentMenu:hover ul.dropDown {
+        display: flex;
+    }
+
+    a.btnPrimary:hover span svg {
+        transform: rotate(0deg);
+        right: -30px;
+    }
+
+    .headerCta:hover a {
+        background: #f8b205;
+        color: #1b1402 !important;
+    }
+
+    .headerCta:hover a svg {
+        color: #1b1402 !important;
+    }
+
+
+    .welcomepopupinner button.btnPrimary:after {
+        content: "";
+        right: 38.7%;
+    }
+
+    .welcomepopupcol {
+        background: #fdb612;
+        padding: 8px;
+        border-radius: 10px;
+    }
+
+    .welcomepopupBox.show {
+        transform: scale(1);
+    }
+
+    button.btnPrimary:hover span svg {
+        right: -26px;
+        top: 4px;
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    button.btnPrimary:hover {
+        color: #fff !important;
+    }
+
+    button.btnPrimary:hover:after {
+        width: 105%;
+        height: 105%;
+        border-radius: 0;
+        right: -5px !important;
+        bottom: -5px;
+    }
+
+    .BannerformWrap button.btnPrimary:after {
+        right: 33.5%;
+    }
+
+    .contactFormFields button.btnPrimary:after {
+        right: 37.6%;
+    }
+
+    .contactFormleftwrp button.btnPrimary:after {
+        right: 23%;
+    }
+
+    .contactFormleftwrp .formFields.FieldButton {
+        width: 216px;
+    }
+
+    button.btnPrimary:after {
+        content: "";
+        width: 28px;
+        height: 28px;
+        background: #1a1302 !important;
+        position: absolute;
+        border-radius: 100%;
+        right: 36.5%;
+        top: 50%;
+        transform: translateY(-50%);
+        transition: 0.25s;
+    }
+
+    ul.socialFooter li a {
+        overflow: hidden;
+        position: relative;
+        transition: 0.3s;
+    }
+
+    ul.socialFooter li a:after {
+        transition: 0.3s;
+    }
+
+    ul.socialFooter li:hover a:after {
+        width: 105%;
+        height: 105%;
+        border-radius: 0;
+        top: 0;
+        right: 0;
+        z-index: 9;
+    }
+
+    ul.socialFooter li a span {
+        position: relative;
+        z-index: 999;
+    }
+
+    ul.socialFooter li:hover a {
+        color: #223a36 !important;
+        text-align: center;
+    }
+}
+
+@media (max-width: 850px) {
+    .HeaderCtaPhoneEmaillp {
+        flex-direction: column;
+    }
+
+    section.sec1.innerBanner.fantasyBanner.lpBanner {
+        padding-top: 210px;
+    }
+
+    .logoMainlp {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    header.lpHeader .logoMainlp img {
+        max-width: 150px;
+    }
+
+    .HederCtaRightlp a {
+        padding: 5px 0;
+    }
+
+    .ctaRightLp {
+        padding-top: 12px;
+    }
+
+    .bannerList ul {
+        max-width: 100%;
+        column-count: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .bannerList ul li {
+        font-size: 16px;
+    }
+
+    section.sec2.ourServicesLp {
+        padding: 40px 0;
+    }
+
+    .serviceBoxMain {
+        margin-top: 30px;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+
+    .serviceIcon {
+        margin-bottom: 20px;
+    }
+
+    .serviceContent {
+        width: 100%;
+        margin: 0;
+    }
+
+    section.sec1.innerBanner.fantasyBanner.lpBanner p {
+        text-align: center;
+        margin-top: 12px;
+        display: block;
+    }
+
+    .bannerList {
+        margin-top: 20px;
+    }
+
+    .tabContentRight {
+        margin-top: 40px;
+    }
+
+    span.MainTitleTabs {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .tabcontentwrap {
+        padding: 40px 0;
+    }
+
+    .spectrum-genres {
+        padding: 40px 0;
+    }
+
+    .tabTitle span {
+        font-size: 16px;
+        white-space: nowrap;
+    }
+
+    .tablistMain ul.react-tabs__tab-list li {
+        min-width: auto !important;
+        padding: 0 30px;
+        background: #ebefda;
+        margin-right: 8px;
+        box-shadow: 0 0 8px #ebefda;
+    }
+
+    .tablistMain ul.react-tabs__tab-list {
+        overflow-x: auto;
+    }
+
+    .tablistMain {
+        padding: 0;
+    }
+
+    .tablistMain ul.react-tabs__tab-list li img {
+        max-width: 50px;
+        min-height: 70px;
+    }
+
+    .tablistMain ul.react-tabs__tab-list li:nth-child(6) img {
+        max-width: 40px;
+    }
+
+    .whychooseMain {
+        background: rgb(231 240 230 / 50%) !important;
+        text-align: center;
+    }
+
+    .lpSliderInner {
+        flex-direction: column;
+    }
+
+    .lpsliderBook {
+        width: 100%;
+    }
+
+    .lpsliderBook img {
+        max-width: 80%;
+        margin: 0 auto 10px;
+        display: table;
+        position: relative;
+        left: -15px;
+    }
+
+    .TestiSliderMainLP span.testTitle {
+        font-size: 22px;
+        text-align: center;
+        line-height: 38px;
+    }
+
+    .lpsliderTestCOntent {
+        text-align: center;
+    }
+
+    .ourServicesLp .platformsTitle p, .TestiSliderMainLP .platformsTitle p {
+        max-width: 100%;
+    }
+
+    .TestiSliderMainLP {
+        padding: 40px 0;
+    }
+
+    .TestiSliderMainLP span.smallTitle {
+        font-size: 20px;
+        line-height: 36px;
+    }
+
+    .whychooseuslp .platformsTitle {
+        margin-bottom: 30px;
+    }
+
+    .lpsliderTestCOntent img {
+        display: table;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 767px) {
+    .headerMenuMain {
+        display: none;
+        position: fixed;
+        left: 0;
+        padding: 0;
+        top: 0;
+        height: 100vh;
+        width: 100%;
+        background: rgb(0 0 0 / 80%);
+    }
+
+    .headerMenuMain.showMenu {
+        display: block;
+    }
+
+    .ctaRight {
+        display: none;
+    }
+
+    .bannerContent h1 {
+        font-size: 26px;
+        line-height: 35px;
+        margin-bottom: 18px;
+    }
+
+    .BannerHome .bannerContent p,
+    p {
+        font-size: 12px !important;
+        line-height: 23px !important;
+    }
+
+    .btnBanner {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .btnBanner a {
+        font-size: 14px;
+    }
+
+    .row.criclerow {
+        /*transform: scale(0.6);*/
+        /*height: auto;*/
+        /*left: 0;*/
+        /*position: absolute;*/
+        /*bottom: -54%;*/
+        /*right: 0;*/
+        /*margin-left: -86px;*/
+        /*width: 320px;*/
+        /*margin: auto;*/
+        display: none;
+    }
+
+    .BookTitle {
+        display: none;
+    }
+
+    .sliderCircle {
+        position: relative;
+        left: -230px;
+    }
+
+    .btnBanner a.btnSecondary {
+        margin-top: 20px;
+    }
+
+    .BannerHome {
+        height: auto;
+        padding: 40px 0 100px;
+    }
+
+    .abtLeft h2 {
+        padding-right: 0;
+    }
+
+    .abtLeft h2 {
+        font-size: 24px;
+        line-height: 37px;
+    }
+
+    .cupImage {
+        display: none;
+    }
+
+    .abtRight p {
+        font-size: 16px;
+        line-height: 24px;
+        margin-top: 5px;
+        margin-bottom: 25px;
+    }
+
+    .aboutCta {
+        margin-top: 0px;
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .coreServices .abtRight p {
+        margin-bottom: 30px;
+    }
+
+    .aboutCta a.btnPrimary {
+        margin-bottom: 20px;
+    }
+
+    .abtSection {
+        padding: 50px 0px;
+    }
+
+    .custom-tab-list ul {
+        padding: 0;
+        margin: 40px 0 30px;
+        overflow-y: hidden;
+        overflow-x: scroll;
+    }
+
+    .custom-tab-list ul li {
+        width: auto;
+    }
+
+    .custom-tab-list ul li a {
+        font-size: 22px;
+        line-height: 36px;
+    }
+
+    .custom-tab-list ul li + li {
+        margin-left: 30px;
+    }
+
+    .custom-tab-list {
+        overflow: hidden;
+    }
+
+    .port-content {
+        max-width: 100% !important;
+        border: none;
+        padding-left: 0 !important;
+        margin: 10px auto 0 !important;
+    }
+
+    .custom-tab-list ul li:last-child {
+        min-width: 160px !important;
+    }
+
+    .coreServices .aboutCta a.ctaLinePhone {
+        margin-left: 12px;
+        margin-top: 10px;
+    }
+
+    .servicebox {
+        width: 50%;
+    }
+
+    .serviceBoxinner {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: 30px 15px;
+        margin: 10px 0;
+    }
+
+    .serviceBoxinner span.servTitle {
+        font-size: 13px;
+        line-height: 21px;
+        min-height: 48px;
+    }
+
+    .serviceBoxinner svg {
+        max-height: 65px;
+    }
+
+    section.sec4.servicesMainboxes {
+        background-position: bottom;
+        padding: 50px 0;
+    }
+
+    .heading2 {
+        margin-bottom: 30px;
+        font-size: 23px;
+        line-height: 36px;
+    }
+
+    .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        padding: 0 30px;
+    }
+
+    .aboutCta a.ctaLinePhone {
+        margin-left: 0px;
+    }
+
+    .servicesMainboxesContent {
+        padding: 50px 0;
+    }
+
+    .bookContent {
+        padding: 50px 0;
+        background-position: left;
+    }
+
+    .processMain,
+    .whyChosseUs {
+        padding: 50px 0;
+    }
+
+    .portfolioMain {
+        padding: 50px 0;
+    }
+
+    .PortfolioTitle span.heading2 {
+        padding-right: 70px;
+    }
+
+    .portArrow {
+        position: absolute;
+        right: 20px;
+        top: 100px;
+    }
+
+    .philMain .row {
+        display: flex;
+        flex-direction: column-reverse;
+        padding: 50px 0 0;
+    }
+
+    .philContentRight {
+        max-width: 100% !important;
+        margin-bottom: 50px;
+    }
+
+    .abtLeft h4 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .makesTitle span,
+    .whyChooseLeft .abtLeft h4,
+    .testCenter .abtLeft h4 {
+        font-size: 22px;
+        line-height: 33px;
+    }
+
+    .makesContent ul {
+        column-count: 1;
+        margin-top: 20px;
+    }
+
+    .makesContent ul li {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .philImageLeft {
+        position: relative;
+        left: -18px;
+        display: none;
+    }
+
+    .philMain {
+        overflow: hidden;
+    }
+
+    .servicesMainboxesContent .heading2 {
+        text-align: left;
+    }
+
+    .servicesMainboxesContent .heading2 {
+        text-align: left;
+    }
+
+    .logoMain {
+        position: static;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .logoMain img {
+        max-width: 160px;
+        width: 100%;
+    }
+
+    .headerMain:after {
+        display: none;
+    }
+
+    .headerMain {
+        padding: 25px 0px;
+    }
+
+    .BannerHome .bannerContent {
+        padding-top: 90px;
+    }
+
+    .reviewBTn a img {
+        max-width: 90px;
+    }
+
+    .reviewBTn a {
+        width: 100%;
+        height: 70px;
+    }
+
+    .reviewBTn {
+        display: inline-block;
+        width: 48%;
+    }
+
+    .trustpilotGoogleBox {
+        margin-top: 30px;
+        margin-bottom: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .reviewBTn + .reviewBTn {
+        margin: 0;
+    }
+
+    .whychooseRight {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+    }
+
+    .whychooeIconBox {
+        flex-direction: column;
+        border: none;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+
+    .whychooeIconBoxInner {
+        width: 100%;
+        border-bottom: 1px solid #cae2d6;
+        padding-bottom: 30px;
+        margin-bottom: 30px;
+    }
+
+    .whychooeIconBoxInner .letsconnect {
+        padding: 25px;
+        margin-bottom: 40px;
+    }
+
+    .contentChoose p {
+        margin-bottom: 0px;
+    }
+
+    .whychooeIconBox:last-child .whychooeIconBoxInner {
+        border: none;
+        margin: 0;
+        padding-bottom: 0;
+        justify-content: center;
+    }
+
+    .iconChoose svg {
+        height: 70px !important;
+    }
+
+    .testimonialMain {
+        padding: 50px 0;
+    }
+
+    .testLeft, .testRight {
+        display: none !important;
+    }
+
+    .testCenter .abtLeft h4 {
+        margin-bottom: 30px;
+    }
+
+    .testLeftImage {
+        pointer-events: auto;
+    }
+
+    .mainCOntentSlider {
+        padding: 30px;
+    }
+
+    .testCon {
+        min-height: 290px !important;
+    }
+
+    .testImageName {
+        position: static;
+    }
+
+    .testImageName img {
+        max-width: 120px;
+    }
+
+    span.nameClient {
+        font-size: 22px;
+        line-height: 26px;
+        margin: 0;
+    }
+
+    .testimonialMain .nextArrow {
+        position: absolute;
+        right: 0;
+        bottom: -30px;
+        cursor: pointer;
+        z-index: 99999;
+    }
+
+    .testimonialMain .prevArrow {
+        position: absolute;
+        left: 0;
+        bottom: -30px;
+        cursor: pointer;
+        z-index: 99999;
+    }
+
+    span.ServicClient {
+        margin-top: 3px;
+    }
+
+    .servicesMarque ul li {
+        font-size: 38px;
+        line-height: 52px;
+        margin-left: 50px;
+    }
+
+    .servicesMarque ul {
+        margin-top: 80px;
+    }
+
+    .BlogMain {
+        padding: 50px 0;
+        background-position: left;
+        display: none;
+    }
+
+    .BlogMain .container-fluid {
+        max-width: 100%;
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        padding: 0 30px;
+    }
+
+    .blogSlider {
+        margin-top: 30px !important;
+    }
+
+    .blogSlider .swiper-wrapper {
+        align-items: start !important;
+    }
+
+    span.cateReadTime {
+        font-size: 13px;
+    }
+
+    span.blogTitle {
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 8px;
+    }
+
+    .contactFormBottom {
+        padding: 50px 0;
+    }
+
+    .contactFormContentLeft {
+        margin-bottom: 50px;
+    }
+
+    ul.socialFooter li + li {
+        margin-left: 12px;
+    }
+
+    footer .container-fluid .col-md-8 {
+        padding-left: calc(var(--bs-gutter-x) * .5);
+    }
+
+    .BlogMain .container-fluid {
+        max-width: 100%;
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        padding: 0 30px;
+    }
+
+    .blogSlider {
+        margin-top: 30px !important;
+    }
+
+    .blogSlider .swiper-wrapper {
+        align-items: start !important;
+    }
+
+    span.cateReadTime {
+        font-size: 13px;
+    }
+
+    span.blogTitle {
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 8px;
+    }
+
+    .contactFormBottom {
+        padding: 30px 0;
+    }
+
+    .contactFormContentLeft {
+        margin-bottom: 20px;
+    }
+
+    footer .container-fluid {
+        padding: 0 30px;
+    }
+
+    span.footerTitle {
+        font-size: 24px;
+        line-height: normal;
+    }
+
+    .footerLeft {
+        padding: 50px 0;
+        border: none;
+    }
+
+    ul.socialFooter li a {
+        font-size: 12px;
+        width: 100px;
+        line-height: 22px;
+        padding: 10px 12px;
+    }
+
+    ul.socialFooter li a:after {
+        width: 12px;
+        height: 12px;
+    }
+
+    .footerRightTop {
+        padding: 0;
+        flex-direction: column;
+        display: none;
+    }
+
+    .copyRighgtBottom {
+        padding-left: 0px;
+        margin-top: 0px !important;
+        padding-bottom: 50px;
+    }
+
+    ul.socialFooter li + li {
+        margin-left: 12px;
+    }
+
+    footer .container-fluid .col-md-8 {
+        padding-left: calc(var(--bs-gutter-x) * .5);
+    }
+
+    .copyRighgtBottom ul {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .copyRighgtBottom ul li {
+        margin-bottom: 20px;
+    }
+
+    .copyRightContent {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .copyRightContent p {
+        margin: 0 0 20px;
+    }
+
+    section.sec5.platforms {
+        padding: 50px 0;
+        display: none;
+    }
+
+    .platformsInner img {
+        max-width: 100%;
+    }
+
+    .formFields.FieldButton input {
+        font-size: 14px;
+    }
+
+    .innerBanner p {
+        display: none;
+    }
+
+    .innerBanner h1 {
+        font-size: 32px;
+        line-height: 40px;
+        text-align: center;
+        margin-bottom: 0px;
+    }
+
+    .reliable-agencyRight img {
+        max-width: 80%;
+    }
+
+    .reliable-agencyRight img {
+        max-width: 80%;
+    }
+
+    .bannerTitle span {
+        font-size: 18px;
+    }
+
+    span.offertitle {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    span.sepTitle {
+        font-size: 16px;
+    }
+
+    .bannerFormRightMain {
+        margin-top: 30px;
+        border-radius: 0px;
+    }
+
+    .bannerWraptile {
+        padding: 15px 30px;
+    }
+
+    section.ghostTabs {
+        display: none !important;
+    }
+
+    .reliable-agency {
+        padding: 50px 0 0;
+    }
+
+    .mobileMenuIcon img {
+        height: 25px;
+    }
+
+    .mobileMenuIcon {
+        display: block;
+    }
+
+    .connectMain {
+        display: none;
+    }
+
+    .innerBanner .btnBanner {
+        margin-top: 40px;
+        display: none;
+    }
+
+    .TestiSliderMain .container-fluid {
+        max-width: 100%;
+        padding: 0 30px;
+        width: 100%;
+    }
+
+    .TestiSliderMain {
+        padding: 50px 0;
+    }
+
+    .ghostagecnyContent,
+    section.sec11.faqsMain {
+        padding: 50px 0;
+    }
+
+    span.ghostTitleheading,
+    span.faqtitlemain {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .ghostContentagency .whychooeIconBox:last-child .whychooeIconBoxInner {
+        width: 100%;
+        border-bottom: 1px solid #cae2d6;
+        padding-bottom: 30px;
+        margin-bottom: 30px;
+    }
+
+    .ghostContentagency .whychooeIconBox:last-child .whychooeIconBoxInner:last-child {
+        border: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .accordion__button {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .faqimageright {
+        padding: 50px 0 0;
+    }
+
+    .contentChoose span {
+        font-size: 24px;
+    }
+
+    .ctaTitleRightInnerLeft .ctaWrap {
+        flex-direction: column;
+    }
+
+    .ctaTitleRightInnerLeft .aboutCta {
+        margin: 0;
+    }
+
+    .ctabtnrightsocial {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .ctabtnrightsocial .trustpilotGoogleBox {
+        flex-direction: column;
+        margin-top: 20px;
+    }
+
+    .ctabtnrightsocial .reviewBTn a {
+        width: 220px;
+        height: auto;
+        height: 70px;
+    }
+
+    .ctaTitleRight {
+        padding-left: 0;
+        border: none;
+        margin: 30px 0 0;
+    }
+
+    .ctabtnrightsocial .reviewBTn {
+        width: 100%;
+    }
+
+    .ctabtnrightsocial .trustpilotGoogleBox .reviewBTn + .reviewBTn {
+        margin-top: 22px;
+    }
+
+    .ctaGreen {
+        background-position: center;
+    }
+
+    .ctaTitleLeft {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+    }
+
+    .ctaTitleLeft .heading2 {
+        font-size: 30px;
+        line-height: 40px;
+        text-align: center;
+    }
+
+    .ctaTitleLeft p {
+        text-align: center;
+    }
+
+    .ctaOrange .ctaTitleRight {
+        padding-left: 0px;
+        border: none;
+    }
+
+    .platformsInner.proMobile {
+        transform: inherit;
+        margin-bottom: 0px;
+    }
+
+    .reviewLogos ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .reviewLogos ul li {
+        width: calc(33.3% - 20px);
+    }
+
+    .reviewLogos ul li img {
+        max-width: 100%;
+    }
+
+    .reviewManinHeader {
+        padding: 30px 0 30px;
+        background-size: cover;
+        margin-top: 0px;
+    }
+
+    .BannerFormRight {
+        width: calc(100% + 60px);
+        max-width: calc(100% + 60px);
+        margin-left: -30px;
+    }
+
+    .BannerFields .formFields input {
+        padding: 15px 0;
+        font-size: 15px;
+    }
+
+    .BannerFields .formFields {
+        padding: 0 12px;
+    }
+
+    .reviewLogos ul li + li {
+        margin-left: 30px;
+    }
+
+    .headerMenuWrap {
+        width: 80%;
+        height: 100%;
+        background: #fff;
+        overflow-y: auto;
+    }
+
+    .headerMenuWrap > ul {
+        flex-direction: column;
+        align-items: start;
+        justify-content: start;
+        padding: 15px 0;
+    }
+
+    .headerMenuWrap ul li a, .headerMenuWrap ul li span {
+        color: #333 !important;
+        text-align: left;
+        padding: 0;
+        display: block;
+    }
+
+    .headerMenuWrap > ul > li + li {
+        margin: 0;
+        border-top: 1px solid #eee;
+    }
+
+    .headerMenuWrap > ul > li {
+        display: block;
+        width: 100%;
+        padding: 15px 20px;
+    }
+
+    .headerMenuWrap ul.dropDown {
+        display: none;
+        position: static;
+        padding-top: 11px;
+        min-width: 100%;
+        background: #f6f6f6;
+        margin-top: 12px;
+    }
+
+    .headerMenuWrap ul.dropDown li {
+        border: none !important;
+    }
+
+    .headerMenuWrap ul.dropDown:before {
+        display: none;
+    }
+
+    .headerMenuWrap ul > li.parentMenu a > svg,
+    .headerMenuWrap ul > li.parentMenu span > svg {
+        display: none !important;
+    }
+
+    .openDropdown {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 50px;
+        height: 54px;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .openDropdown svg {
+        margin: 0 !important;
+    }
+
+    span.ghostTitleheading br {
+        display: none;
+    }
+
+    .philMain.ProContent {
+        padding: 50px 0;
+    }
+
+    .philMain.ProContent .proconImageLeft img {
+        max-width: 100%;
+    }
+
+    .ProContentLeft .abtLeft h4 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .ProContentLeft .abtLeft {
+        margin-top: 40px;
+    }
+
+    .philMain.ProContent .row {
+        padding: 0px;
+    }
+
+    section.sec13.bookmarketMobile {
+        padding: 50px 0;
+    }
+
+    h3.bookheadingmain {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    span.countHas {
+        font-size: 24px;
+    }
+
+    span.countHas b {
+        width: 85px;
+        letter-spacing: 30px;
+    }
+
+    span.countHas b span {
+        left: 13px;
+    }
+
+    .bookmarketMobileLeft span.earnText {
+        font-size: 28px;
+        line-height: 38px;
+    }
+
+    span.countHas b:before {
+        left: 40px;
+    }
+
+    .bookmarketMobileRight img {
+        max-width: 100%;
+        margin-top: 50px;
+    }
+
+    .bookmarketMobileLeft .btnBanner {
+        align-items: start;
+    }
+
+    .bookmarketingRightImage {
+        margin-bottom: 50px;
+    }
+
+    .philMain.ProContent.servingMainbox {
+        padding-bottom: 50px !important;
+    }
+
+    .bookmarketingRightImage {
+        margin-bottom: 50px;
+    }
+
+    .philMain.ProContent.servingMainbox {
+        padding-bottom: 50px !important;
+    }
+
+    .servicesMainboxesInner .serviceTitle p {
+        max-width: 100%;
+    }
+
+    .servicesMainboxesInner .servicebox {
+        width: 100%;
+    }
+
+    .servicesMainboxesInner .serviceBoxinner span.servTitle {
+        margin-bottom: 0;
+    }
+
+    .servicesMainboxesInner .sericoText p {
+        text-align: left;
+    }
+
+    .formfieldmain.halfField .formField {
+        width: 100%;
+    }
+
+    .formfieldmain.halfField {
+        flex-direction: column;
+    }
+
+    .formfieldmain.halfField .formField + .formField {
+        margin-top: 3%;
+    }
+
+    .conRightDetails {
+        padding-left: 0px;
+    }
+
+    .conRightDetails ul li {
+        font-size: 16px;
+    }
+
+    .contactUsBanner,
+    .AboutUsBanner {
+        padding: 150px 0 40px;
+    }
+
+    .Aboutsec1Content .bookContentmain {
+        max-width: 100%;
+    }
+
+    .Aboutsec1Content .bookContentmain {
+        max-width: 100%;
+    }
+
+    .aboutSec2Content {
+        padding: 50px 0;
+    }
+
+    .aboutSec2Content .row:nth-child(2n) .bookContentmain {
+        padding: 0 calc(var(--bs-gutter-x) * .5);
+    }
+
+    .aboutSec2Content .row + .row {
+        margin-top: 50px;
+    }
+
+    .aboutSec2Content ul.twoCol {
+        column-count: 1;
+    }
+
+    .aboutSec2Content ul.twoCol li,
+    .aboutSec2Content .bookContentmain ul li {
+        font-size: 16px !important;
+        line-height: 24px !important;
+    }
+
+    .Aboutsec1Content .bookContentmain {
+        text-align: left;
+    }
+
+    .Aboutsec1Content .bookContent .heading2 {
+        text-align: left;
+    }
+
+    .wrapper {
+        overflow: hidden;
+    }
+
+    span.ctatilefaq {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    span.ctatilefaq {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .fictioncatboxesulInner ul {
+        padding: 0;
+        column-count: 2;
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .fictionInnerCaterow {
+        max-width: 100%;
+        margin: 0 auto 20px;
+    }
+
+    .fictionInnerCaterow span {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .fictionInnerCate {
+        padding: 50px 0;
+    }
+
+    span.ctatilefaq {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .fictioncatboxesulInner ul {
+        padding: 0;
+        column-count: 2;
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .fictionInnerCaterow {
+        max-width: 100%;
+    }
+
+    .fictionInnerCaterow span {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .fictionInnerCate {
+        padding: 50px 0;
+    }
+
+    .fictioncatboxesulInner ul li svg {
+        margin-right: 5px;
+    }
+
+    ul.footerContactDetails li a {
+        font-size: 24px;
+    }
+
+    .bookPubsec3 .reliable-agencyRight {
+        position: relative;
+        top: -40px;
+    }
+
+    ul.footerContactDetails li a {
+        font-size: 24px;
+    }
+
+    .bookPubsec3 .reliable-agencyRight {
+        position: relative;
+        top: -40px;
+    }
+
+    .scoreTitle {
+        font-size: 30px;
+        line-height: 38px;
+        margin-bottom: 20px;
+    }
+
+    .scroreBig {
+        padding: 40px 0 30px;
+    }
+
+    .innerPageDefaultContent h3.heading2 {
+        font-size: 26px;
+        line-height: 34px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    .aboutSec2Content .bookContentmain {
+        padding: 0 5px;
+    }
+
+    button.btnPrimary span:after {
+        content: "";
+        width: 28px;
+        height: 28px;
+        background: #1a1302 !important;
+        position: absolute;
+        border-radius: 100%;
+        right: -40px;
+        top: 50%;
+        transform: translateY(-50%);
+        transition: 0.25s;
+        z-index: -1;
+    }
+
+    .popupBox {
+        width: 86%;
+        padding: 20px;
+    }
+
+    span.popTitMain {
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .popuptitle {
+        margin-bottom: 12px;
+    }
+
+    .popupBox {
+        transform: scale(0.85);
+    }
+
+    .popupBox.show {
+        transform: scale(0.95);
+    }
+
+    .closeMenu.mobileMenuIcon {
+        position: absolute;
+        right: 20px;
+        top: 20px;
+    }
+
+    .closeMenu.mobileMenuIcon img {
+        width: 35px;
+        height: 35px;
+    }
+
+    .swal2-popup {
+        width: 90% !important;
+    }
+
+    .swal2-title {
+        font-size: 24px !important;
+        line-height: 34px !important;
+    }
+
+    div#swal2-html-container {
+        padding: 0 15px;
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .StickyCta {
+        display: none !important;
+    }
+
+    .proMobile {
+        display: block;
+        transform: scale(1.12);
+        margin-bottom: 30px;
+    }
+
+    .proDesktop {
+        display: none !important;
+    }
+
+    .bookPrintingMain {
+        background: #e7f0e6 !important;
+        padding: 40px 0 !important;
+    }
+
+    .bookorintboxmaininner {
+        margin-top: 20px;
+    }
+
+    span.protypeHeading.text-center {
+        font-size: 32px;
+        margin-bottom: 0px;
+        line-height: 36px;
+    }
+
+    section.booksliderandboxes {
+        padding: 40px 0;
+    }
+
+    .bookprintingSec .col-md-12.ghostTitleagency {
+        margin-bottom: 0px;
+    }
+
+    .bookdetailSlider {
+        flex-direction: column;
+    }
+
+    .booksliderleft {
+        width: 100%;
+    }
+
+    .booksliderRight {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .booksliderleft h3 {
+        font-size: 44px;
+        line-height: 50px;
+    }
+
+    .booksliderinner .swiper-pagination {
+        display: none !important;
+    }
+
+    .promotionImageLeft {
+        display: none;
+    }
+
+    .welcomepopupBox {
+        width: 90%;
+        border-radius: 8px;
+        padding: 30px 20px 15px;
+    }
+
+    .welcomepopupinner span.popTitMain {
+        font-size: 20px;
+        line-height: 24px;
+        margin: 0 0 6px;
+    }
+
+    .welcomepopupinner .popuptitle p {
+        font-size: 24px !important;
+        line-height: 30px !important;
+    }
+
+    .contactContentLeft .abtLeft h4 {
+        font-family: ivy_modesemibold;
+        font-size: 24px;
+        line-height: normal;
+        margin-bottom: 4px;
+    }
+
+    .contactContentLeft .abtLeft span {
+        font-size: 18px;
+    }
+
+    .processMain .heading2 {
+        margin-bottom: 10px;
+    }
+
+    .contactFormContentLeft .aboutCta a.ctaLinePhone, span.nameClient {
+        font-size: 23px;
+        line-height: 40px;
+    }
+
+    .iconChoose lottie-player {
+        width: 60px !important;
+        height: 60px !important;
+    }
+
+    .BannerHome:after {
+        height: 54px;
+        display:none;
+    }
+
+
+}
