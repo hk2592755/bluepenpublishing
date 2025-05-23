@@ -13,10 +13,10 @@
                                 <i class="fa-solid fa-comment"></i>
                                 <span>Chat With US</span>
                             </a>
-                            <a href="tel:+000 000 0000" class="ctaLinePhone">
+                            <a href="tel:+3072040588" class="ctaLinePhone">
                                 <i class="fa-solid fa-phone"></i>
                                 <span class="smallTitleLine">We will be happy to assist you</span>
-                                (000) 000-0000
+                                (307) 204-0588
                             </a>
                             <a href="javascript:;" class="btnPrimary openPopup">
                                 <span>Request A Quote <i class="fa-solid fa-arrow-right"></i></span>

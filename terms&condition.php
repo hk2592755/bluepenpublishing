@@ -156,8 +156,7 @@
                         relevant
                         claims regarding copyright infringements of an individual, person, or entity. Copyright owners,
                         or
-                        any other authorized personnel, can submit a claim at <a
-                                href=%7bConstant.html>{Constant.Email}</a> with the subject line: Copyright
+                        any other authorized personnel, can submit a claim at  with the subject line: Copyright
                         Infringement. The claim should include a detailed description to highlight the issue. By taking
                         this
                         initiative, you may be liable for any damages, including but not limited to the costs of any
@@ -167,7 +166,7 @@
                     <h3 class="heading2">12. Feedback and Error Reports</h3>
                     <p>Blue Pen Publishing welcomes your feedback. You may provide us with details of your experience
                         by
-                        emailing the service at <a href=%7bConstant.html>{Constant.Email}</a> or by submitting
+                        emailing the service  by submitting
                         reviews
                         through a third-party service website or tool. You are encouraged to offer suggestions to
                         improve
@@ -270,7 +269,7 @@
                         Universal Writers.</p>
                     <h3 class="heading2">22. Contact Us</h3>
                     <p>If you have any additional queries, concerns, or feedback, feel free to reach out to us at <a
-                                href="mailto:info@abc.com">info@abc.com</a></p>
+                                href="mailto:info@bluepenpublishing.com">info@bluepenpublishing.com</a></p>
                 </div>
             </div>
         </div>

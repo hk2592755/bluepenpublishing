@@ -144,6 +144,9 @@ jQuery(function () {
         },
 
         breakpoints: {
+            425: {
+                slidesPerView: 1,
+            },
             640: {
                 slidesPerView: 1,
             },

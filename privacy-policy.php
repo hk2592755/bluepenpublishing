@@ -237,7 +237,7 @@
                     <p>If you have additional queries or concerns regarding Blue Pen Publishing’ Privacy Policy,
                         feel
                         free
-                        to chat with us. You can send us an email at: <a href=mailto:info@abc.com>info@abc.com</a>
+                        to chat with us. You can send us an email at: <a href=mailto:info@bluepenpublishing.com>info@bluepenpublishing.com</a>
                     </p>
                 </div>
             </div>

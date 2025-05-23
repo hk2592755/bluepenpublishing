@@ -65,7 +65,7 @@
                     <div class="conRightDetails">
                         <span class="contitle"><i class="fa-solid fa-phone"></i> Contact info</span>
                         <ul>
-                            <li>Phone: (000) 000-0000</li>
+                            <li>Phone: (307) 204-0588</li>
                             <li><a href="mailto:info@bluepenpublishing.com">Email :
                                     info@bluepenpublishing.com</a>
                             </li>

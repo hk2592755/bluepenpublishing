@@ -67,9 +67,9 @@
                                         class="fa-solid fa-arrow-right-long"></i></a>
                         </div>
                         <div class="HeaderCtaPhoneEmail">
-                            <a href="tel:+000 0000 0000"><i class="fa-solid fa-phone"></i> (000) 000-0000</a>
-                            <a href="mailto:info@abc.com"><i class="fa-solid fa-envelope"></i>
-                                info@abc.com</a>
+                            <a href="tel:+3072040588"><i class="fa-solid fa-phone"></i>(307) 204-0588</a>
+                            <a href="mailto:info@bluepenpublishing.com"><i class="fa-solid fa-envelope"></i>
+                                info@bluepenpublishing.com</a>
                         </div>
                     </div>
                 </div>

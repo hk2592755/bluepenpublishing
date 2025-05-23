@@ -22,10 +22,10 @@
                 <div class="aboutCta">
                     <a href="javascript:;" class="btnPrimary openPopup"><span>Request A Quote <i
                                     class="fa-solid fa-arrow-right"></i></span></a>
-                    <a href="tel:+000 0000 0000" class="ctaLinePhone">
+                    <a href="tel:+3072040588" class="ctaLinePhone">
                         <i class="fa-solid fa-phone"></i>
                         <span class="smallTitleLine">Call Us</span>
-                        (000) 000-0000
+                        (307) 204-0588
                     </a>
                 </div>
             </div>

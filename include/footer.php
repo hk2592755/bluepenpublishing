@@ -7,8 +7,8 @@
                         Now Just a Click
                         Away </span>
                     <ul class='footerContactDetails'>
-                        <li><a href="mailto:info@abc.com">info@abc.com</a></li>
-                        <li><a href="tel:+000 000 0000">(000) 000-0000</a></li>
+                        <li><a href="mailto:info@bluepenpublishing.com">info@bluepenpublishing.com</a></li>
+                        <li><a href="tel:+3072070588">(307) 204-0588</a></li>
                     </ul>
                     <ul class='socialFooter'>
                         <li><a href="#"><span>Facebook</span></a></li>
@@ -70,7 +70,7 @@
     <div class="StickeyCtaInner">
         <ul>
             <li><a href="javascript:;" class="openPopup"><img src="assets/images/ctaFormfixed.png" alt="Sticky Cta" /></a></li>
-            <li><a href="tel:+000 000 0000"><img src="assets/images/ctaCallfixed.png" alt="Sticky Cta" /></a></li>
+            <li><a href="tel:+3072070588"><img src="assets/images/ctaCallfixed.png" alt="Sticky Cta" /></a></li>
             <li><a href="javascript:;"><img src="assets/images/ctaChatfixed.png" alt="Sticky Cta" /></a>
             </li>
         </ul>
@@ -117,9 +117,9 @@
         </div>
     </div>
 </div>
-<a class="contact-whatsapp" href="" target="_blank">
+<!-- <a class="contact-whatsapp" href="" target="_blank">
     <img src="assets/images/whatsapp.png" alt="whatsapp Images" />
-</a>
+</a> -->
 </div>
 
 <script src="assets/js/plugin.js"></script>

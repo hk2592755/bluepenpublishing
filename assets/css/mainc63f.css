@@ -2425,7 +2425,7 @@ a.btnSecondary.lpbtn svg.fa-phone {
 }
 
 .ghostbanner {
-    background: url('../images/ghostBanner.jpg') bottom center / cover no-repeat;
+    background: url('../images/ghostbanner.jpg') bottom center / cover no-repeat;
 }
 
 .bannerTextInner h1 {
