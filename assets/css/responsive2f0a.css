@@ -580,6 +580,9 @@
     .BookTitle a.btnYellow {
         display: none;
     }
+    .BookTitle:before {
+        display:none;
+    }
 
     .btnBanner a.btnSecondary {
         margin-top: 112px;

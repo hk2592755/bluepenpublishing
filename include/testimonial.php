@@ -5,7 +5,7 @@
             <div class="col-md-4 whyChooseLeft">
                 <div class="abtLeft">
                     <span class="smallTitleLine">Testimonials</span>
-                    <h4>Don't take our word for it; see for yourself!</h4>
+                    <h4>Discover Why Our Clients Trust Us.</h4>
                 </div>
             </div>
         </div>

@@ -3,7 +3,7 @@
             <div class="row">
                 <div class="col-md-7">
                     <div class="faqTitle">
-                        <span class="faqtitlemain">We are Here to Assist You; Get to Know More About Hire a Ghost Writers</span>
+                        <span class="faqtitlemain">We’re Here to Help—Learn More About Hiring a Ghostwriter</span>
                     </div>
                     <div class="accordion-container accordion__item">
                         <div class="set">
@@ -53,7 +53,7 @@
                     <div class="faqctaimage">
                         <span class="ctatilefaq">The All-in-One Problem Solver for Ghostwriting Services!</span>
                         <div class="faqgirlimg">
-                            <img src="assets/images/faqImage.webp" alt="Platform Images"/>
+                            <img src="assets/images/faq3.png" alt="Platform Images"/>
                         </div>
                     </div>
                 </div>

@@ -13,7 +13,7 @@
                                 <i class="fa-solid fa-comment"></i>
                                 <span>Chat With US</span>
                             </a>
-                            <a href="tel:+3072040588" class="ctaLinePhone">
+                            <a href="tel:+13072040588" class="ctaLinePhone">
                                 <i class="fa-solid fa-phone"></i>
                                 <span class="smallTitleLine">We will be happy to assist you</span>
                                 (307) 204-0588

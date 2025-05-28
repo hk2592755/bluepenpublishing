@@ -5,15 +5,15 @@
                 <div class="contactContentLeft">
                     <div class="abtLeft">
                         <h4>
-                            Begin Your Road To Success
+                            Start Your Journey to Success
                         </h4>
-                        <span>Contact us now and consult our experts</span>
-                        <p>We will be happy to assist you </p>
+                        <span>Let’s Talk—Expert Advice is Just a Click Away</span>
+                        <p>Our team is ready to assist you anytime. </p>
                     </div>
                 </div>
                 <div class="ctaWrap">
                     <div class="aboutCta">
-                        <a href="tel:+3072040588" class="ctaLinePhone">
+                        <a href="tel:+13072040588" class="ctaLinePhone">
                             <i class="fa-solid fa-phone"></i>
                             <span class="smallTitleLine">We will be happy to assist you</span>
                             (307) 204-0588

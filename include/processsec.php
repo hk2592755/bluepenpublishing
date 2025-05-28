@@ -2,9 +2,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 processTitle whiteTitle">
-                <span class="smallHeading lineBar">Process We Follow</span>
-                <span class="heading2">How Do Blue Pen Publishing Craft a Masterpiece? </span>
-                <p>Our process of ghostwriting is customer-centric because we believe in giving our best at every step! Beginning from chronology to the on-time work submission, our work ethics remain influential! </p>
+                <span class="smallHeading lineBar">Our Proven Process</span>
+                <span class="heading2">How Does Blue Pen Publishing Craft a Masterpiece? </span>
+                <p>Our ghostwriting process is fully customer-centric—because we believe in delivering excellence at every step.
+                    From building a clear timeline to ensuring on-time delivery, our strong work ethic drives everything we do. </p>
             </div>
             <div class="col-md-12 Processimage">
                 <div class="proImag proDesktop">
@@ -22,7 +23,7 @@
                 <div class="aboutCta">
                     <a href="javascript:;" class="btnPrimary openPopup"><span>Request A Quote <i
                                     class="fa-solid fa-arrow-right"></i></span></a>
-                    <a href="tel:+3072040588" class="ctaLinePhone">
+                    <a href="tel:+13072040588" class="ctaLinePhone">
                         <i class="fa-solid fa-phone"></i>
                         <span class="smallTitleLine">Call Us</span>
                         (307) 204-0588

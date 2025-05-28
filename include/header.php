@@ -26,7 +26,7 @@
                 <div class="col-md-2 logoMainWrap">
                     <div class="logoMain">
                         <a href="index.php">
-                            <img src="assets/images/logo1.png" alt="Logo"/>
+                            <img src="assets/images/new-image/logo.jpg" alt="Logo"/>
                         </a>
                         <div class="mobileMenuIcon">
                             <img src="assets/images/menuIcon.svg" alt="MenuIcon"/>
@@ -67,7 +67,7 @@
                                         class="fa-solid fa-arrow-right-long"></i></a>
                         </div>
                         <div class="HeaderCtaPhoneEmail">
-                            <a href="tel:+3072040588"><i class="fa-solid fa-phone"></i>(307) 204-0588</a>
+                            <a href="tel:+13072040588"><i class="fa-solid fa-phone"></i>(307) 204-0588</a>
                             <a href="mailto:info@bluepenpublishing.com"><i class="fa-solid fa-envelope"></i>
                                 info@bluepenpublishing.com</a>
                         </div>

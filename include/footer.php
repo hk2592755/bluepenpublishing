@@ -3,12 +3,11 @@
         <div class='row'>
             <div class='col-md-4'>
                 <div class='footerLeft'>
-                    <span class='footerTitle'>Crafting Stories,
-                        Now Just a Click
+                    <span class='footerTitle'>Your Story Starts Just One Click Away
                         Away </span>
                     <ul class='footerContactDetails'>
                         <li><a href="mailto:info@bluepenpublishing.com">info@bluepenpublishing.com</a></li>
-                        <li><a href="tel:+3072070588">(307) 204-0588</a></li>
+                        <li><a href="tel:+13072070588">(307) 204-0588</a></li>
                     </ul>
                     <ul class='socialFooter'>
                         <li><a href="#"><span>Facebook</span></a></li>
@@ -70,7 +69,7 @@
     <div class="StickeyCtaInner">
         <ul>
             <li><a href="javascript:;" class="openPopup"><img src="assets/images/ctaFormfixed.png" alt="Sticky Cta" /></a></li>
-            <li><a href="tel:+3072070588"><img src="assets/images/ctaCallfixed.png" alt="Sticky Cta" /></a></li>
+            <li><a href="tel:+13072070588"><img src="assets/images/ctaCallfixed.png" alt="Sticky Cta" /></a></li>
             <li><a href="javascript:;"><img src="assets/images/ctaChatfixed.png" alt="Sticky Cta" /></a>
             </li>
         </ul>
